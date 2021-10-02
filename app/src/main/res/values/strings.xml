@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vehicle-tracking-system</string>
+    <string name="title_activity_user_maps">Map</string>
+    <string name="title_activity_diver_maps">Map</string>
+</resources>
